@@ -1,0 +1,3 @@
+# Challenge-1
+
+In this project challenge 1, I reviewed the code that was given to me for the website of a social media marketing agency. I made a few changes to the HTML so that it would be more accessible. I added alt elements to the images provided in the given code. The alt elements are descriptions of the images. I also went through the code to make changes to any tags I deemed were neccessary to make it easier to understand.
